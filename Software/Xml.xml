@@ -21,38 +21,12 @@
                 Margin="5" CornerRadius="10">
             <StackPanel Background="Transparent"
                         Margin="10">
-                <Button Content="Меню блюд" HorizontalContentAlignment="Center"
+                <Button Content="Файлы" HorizontalContentAlignment="Center"
                         VerticalContentAlignment="Center"
                         HorizontalAlignment="Stretch"
                         Height="30" Margin="5"
                         Command="{Binding OpenMenuDishPage}"/>
-
-                <Button Content="Сотрудники" HorizontalContentAlignment="Center"
-                        VerticalContentAlignment="Center"
-                        HorizontalAlignment="Stretch"
-                        Height="30" Margin="5"
-                        Command="{Binding OpenEmployeesPage}"/>
-
-                <Button Content="Заказы" HorizontalContentAlignment="Center"
-                        VerticalContentAlignment="Center"
-                        HorizontalAlignment="Stretch"
-                        Height="30" Margin="5"
-                        Command="{Binding OpenOrdersPage}"/>
-
-                <Button Content="Создать отчёт" HorizontalContentAlignment="Center"
-                        VerticalContentAlignment="Center"
-                        HorizontalAlignment="Stretch"
-                        Height="30" Margin="5"
-                        Command="{ReflectionBinding CreateReport}"
-                        CommandParameter="{ReflectionBinding ElementName=ThisWindow}"/>
-
-                <Button Content="Профиль" HorizontalContentAlignment="Center"
-                        VerticalContentAlignment="Center"
-                        HorizontalAlignment="Stretch"
-                        Height="30" Margin="5"
-                        Command="{Binding OpenProfilePage}"/>
-
-                <Button Content="Выйти" HorizontalContentAlignment="Center"
+                 <Button Content="Выйти" HorizontalContentAlignment="Center"
                         VerticalContentAlignment="Center"
                         HorizontalAlignment="Stretch"
                         Height="30" Margin="5"
