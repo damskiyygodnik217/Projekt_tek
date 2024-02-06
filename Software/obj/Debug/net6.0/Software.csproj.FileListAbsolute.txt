@@ -1,0 +1,17 @@
+C:\Users\Ra\Documents\Документы\Software\Software\obj\Debug\net6.0\Software.csproj.AssemblyReference.cache
+C:\Users\Ra\Documents\Документы\Software\Software\obj\Debug\net6.0\Software.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ra\Documents\Документы\Software\Software\obj\Debug\net6.0\Software.AssemblyInfoInputs.cache
+C:\Users\Ra\Documents\Документы\Software\Software\obj\Debug\net6.0\Software.AssemblyInfo.cs
+C:\Users\Ra\Documents\Документы\Software\Software\obj\Debug\net6.0\Software.csproj.CoreCompileInputs.cache
+C:\Users\Ra\Documents\Документы\Software\Software\bin\Debug\net6.0\Software.exe
+C:\Users\Ra\Documents\Документы\Software\Software\bin\Debug\net6.0\Software.deps.json
+C:\Users\Ra\Documents\Документы\Software\Software\bin\Debug\net6.0\Software.runtimeconfig.json
+C:\Users\Ra\Documents\Документы\Software\Software\bin\Debug\net6.0\Software.dll
+C:\Users\Ra\Documents\Документы\Software\Software\bin\Debug\net6.0\Software.pdb
+C:\Users\Ra\Documents\Документы\Software\Software\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Ra\Documents\Документы\Software\Software\obj\Debug\net6.0\Software.csproj.CopyComplete
+C:\Users\Ra\Documents\Документы\Software\Software\obj\Debug\net6.0\Software.dll
+C:\Users\Ra\Documents\Документы\Software\Software\obj\Debug\net6.0\refint\Software.dll
+C:\Users\Ra\Documents\Документы\Software\Software\obj\Debug\net6.0\Software.pdb
+C:\Users\Ra\Documents\Документы\Software\Software\obj\Debug\net6.0\Software.genruntimeconfig.cache
+C:\Users\Ra\Documents\Документы\Software\Software\obj\Debug\net6.0\ref\Software.dll
